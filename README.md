@@ -1,3 +1,13 @@
+# Turnstyle Audio Website
+<hr />
+
+This website was created on my Website Development unit in BTEC IT. 
+
+Main takewaways from making this was working with cookies(pain in the ass) and also messing around with string queries. I could have probably added a SQL database but its too overkill for a BTEC IT project(VERY INSANE FORESHADOWING)
+
+Have fun looking through this and dw about the stuff underneath this because YOU ARE NOT MR EXAMINER(i think)!!!!!!
+
+
 # Hi Mr Examiner =D
 <hr />
 
