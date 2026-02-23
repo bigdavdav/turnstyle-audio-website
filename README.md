@@ -23,7 +23,6 @@ If you do want to run this code on your machine, you can:
   - Run this on a NodeJS server(files already included) by using:
   ```shell
     user@computer:~$ npm i
-    user@computer:~$ npm fund
     user@computer:~$ npx vite
   ```
   - Access the website through my GitHub page
